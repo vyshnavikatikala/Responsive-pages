@@ -1,0 +1,27 @@
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+     <div class="head text-center">ABOUT THE THERAPIST</div>
+    </div>
+  </div>
+</div>
+
+  <div class="container-fluid">
+       <div class="container body">
+         <div class="row">
+           <div class="col-md-4 align-items-center">
+             <img src="images/Kajal_Aggarwal_on_the_sets_of_Queen_Kannada_remake.jpg" class="img-fluid">
+           </div>
+           <div class="col-md-8 margin">
+            <h5><strong>As a Therapist</strong></h5>
+            <p><span style=font-size:100x>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have created space in a therapeutic setting for people to improve their overall functioning. In my office, it is important for me to create a safe, comfortable, and accepting space without judgment."</span></p>
+            <p><span style=font-size:100x>I believe that with counselling, people can begin to see their own strengths, and find powerful resources for growth within them to move towards their personal and professional goals, without limitations. I see myself as an enabler in their journey.</span></p>
+            <p><span style=font-size:100x>Through holistic lens, I view the mind-body-spirit connection as integral part in understanding the client‘s perspective. I draw from different schools of practice, but all of them have a central tenet of placing importance on the clients for allowing them to resonate with their feeling thinking and behavior.</span></p>
+            
+            <h5><strong>Apart from being a therapist</strong></h5>
+            <p><span style=font-size:100x>Mother of two children, writer, believer in small acts of kindness,  Eco–conservationist, passionate about pets, greenery, and I enjoy reading, travelling and connecting with people.</span></p>
+          </div>
+         </div>
+       </div>
+    </div>
